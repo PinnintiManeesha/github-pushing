@@ -14,5 +14,7 @@ public class App
         }
         System.out.println("Loop completed.");
         System.out.println("Main method completed.");
+        System.out.println("Program finished.");
+        System.out.println("All done!");
     }
 }
