@@ -12,5 +12,7 @@ public class App
         for(int i =0;i<5;i++){
             System.out.println("Iteration: " + i);
         }
+        System.out.println("Loop completed.");
+        System.out.println("Main method completed.");
     }
 }
