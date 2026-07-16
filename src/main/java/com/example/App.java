@@ -17,6 +17,7 @@ public class App
         System.out.println("Program finished.");
         System.out.println("All done!");
         System.out.println("Branching test 100");
+        System.out.println("Feature3 branch test");
     
     }
 }
